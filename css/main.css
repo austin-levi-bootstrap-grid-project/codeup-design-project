@@ -42,3 +42,6 @@ main {
     background-color: white;
     display: flex;
 }
+ul {
+    list-style-type: none;
+}
