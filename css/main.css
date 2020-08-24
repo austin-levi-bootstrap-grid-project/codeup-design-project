@@ -32,3 +32,13 @@ h4 {
 h5 {
     font-size: 28px;
 }
+main {
+    background-color: var(--main-grey);
+}
+.logo-img {
+    height: 105px;
+}
+.logo-background {
+    background-color: white;
+    display: flex;
+}
