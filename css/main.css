@@ -66,3 +66,15 @@ ul {
 .border-2 {
     border-width: 7px !important;
 }
+.icon-color-red {
+    color: #E6563B;
+}
+.icon-color-orange {
+    color: #EB9D3A;
+}
+.icon-color-green {
+    color: #7CB06C;
+}
+.icon-color-blue {
+    color: #00ABA9;
+}
